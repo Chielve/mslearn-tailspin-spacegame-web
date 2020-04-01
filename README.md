@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Chielve_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=Chielve_mslearn-tailspin-spacegame-web)
+
 [![Build Status](https://dev.azure.com/Tailspin102519/Space%20Game%20-%20web%20-%20Tests/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Tailspin102519/Space%20Game%20-%20web%20-%20Tests/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
